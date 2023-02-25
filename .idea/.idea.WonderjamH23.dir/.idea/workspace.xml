@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe28806-8138-4b8e-a147-965cf723496f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_TestLoot.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Private/InteractibleInterface.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Private/InteractorComponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Private/Loot.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/InteractibleInterface.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/InteractorComponent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/Loot.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Queries/EQ_BestInteractible.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_SquireCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_SquireCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_TestLoot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_TestLoot.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Gym/GYM_Character.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Gym/GYM_Character.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Public/Loot.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/Loot.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677320547735</updated>
       <workItem from="1677320576976" duration="1261000" />
-      <workItem from="1677324308471" duration="4282000" />
+      <workItem from="1677324308471" duration="6103000" />
     </task>
     <servers />
   </component>
