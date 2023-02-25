@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp"
 /I .
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderBlueprint\Private"
+=======
+C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp
+/I .
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderBlueprint\Private
+>>>>>>> Stashed changes
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -14,6 +20,7 @@
 /I Runtime\ApplicationCore\Public
 /I Runtime\RHI\Public
 /I Runtime\Json\Public
+<<<<<<< Updated upstream
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source"
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library"
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol"
@@ -33,6 +40,27 @@
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include"
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src"
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include"
+=======
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderLink\Public
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\src
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
+>>>>>>> Stashed changes
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Slate\UHT
 /I Runtime\Slate\Public
 /I Runtime\ImageWrapper\Public
@@ -289,11 +317,16 @@
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT
 /I Runtime\AIModule\Public
 /I Runtime\AIModule\Classes
+<<<<<<< Updated upstream
 /I "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public"
+=======
+/I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public
+>>>>>>> Stashed changes
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
+<<<<<<< Updated upstream
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
@@ -302,6 +335,16 @@
 /FI"D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Definitions.h"
 /Fo"D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
 /sourceDependencies "D:\Unreal Projects\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.dep.json"
+=======
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/FI"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Definitions.h"
+/Fo"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
+/sourceDependencies C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.dep.json
+>>>>>>> Stashed changes
 /Zc:inline
 /nologo
 /Oi
