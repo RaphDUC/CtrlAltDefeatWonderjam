@@ -11,6 +11,10 @@ ALoot::ALoot()
 	PrimaryActorTick.bCanEverTick = true;
 }
 
+void ALoot::GetOwnedGameplayTags(FGameplayTagContainer& TagContainer) const
+{
+}
+
 // Called when the game starts or when spawned
 void ALoot::BeginPlay()
 {

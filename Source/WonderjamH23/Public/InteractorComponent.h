@@ -49,7 +49,7 @@ public:
 
 protected:
 	virtual void BeginPlay() override;
-
+	
 	void FindInteractibleInArea();
 
 	FTimerHandle SearchTimer;

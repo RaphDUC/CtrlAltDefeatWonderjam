@@ -3,13 +3,14 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "GameplayTagAssetInterface.h"
 #include "InteractibleInterface.h"
 #include "NativeGameplayTags.h"
 #include "GameFramework/Actor.h"
 #include "Loot.generated.h"
 
 UCLASS()
-class WONDERJAMH23_API ALoot : public AActor, public IInteractibleInterface
+class WONDERJAMH23_API ALoot : public AActor, public IInteractibleInterface, public IGameplayTagAssetInterface
 {
 	GENERATED_BODY()
 
@@ -17,8 +18,13 @@ public:
 	// Sets default values for this actor's properties
 	ALoot();
 
+	virtual void GetOwnedGameplayTags(FGameplayTagContainer& TagContainer) const override;
+
 	UPROPERTY(EditAnywhere, Category="GameplayTags")
-	TArray<FGameplayTag> GameplayTags;
+	FGameplayTagContainer GameplayTagContainer;
+
+	/**UPROPERTY(EditAnywhere, Category="GameplayTags")
+	TArray<FGameplayTag> GameplayTags;*/
 
 protected:
 	// Called when the game starts or when spawned
