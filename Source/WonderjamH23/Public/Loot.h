@@ -23,9 +23,6 @@ public:
 	UPROPERTY(EditAnywhere, Category="GameplayTags")
 	FGameplayTagContainer GameplayTagContainer;
 
-	/**UPROPERTY(EditAnywhere, Category="GameplayTags")
-	TArray<FGameplayTag> GameplayTags;*/
-
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
