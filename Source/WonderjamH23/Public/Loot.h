@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "InteractibleInterface.h"
+#include "NativeGameplayTags.h"
 #include "GameFramework/Actor.h"
 #include "Loot.generated.h"
 
@@ -15,6 +16,9 @@ class WONDERJAMH23_API ALoot : public AActor, public IInteractibleInterface
 public:
 	// Sets default values for this actor's properties
 	ALoot();
+
+	UPROPERTY(EditAnywhere, Category="GameplayTags")
+	TArray<FGameplayTag> GameplayTags;
 
 protected:
 	// Called when the game starts or when spawned
