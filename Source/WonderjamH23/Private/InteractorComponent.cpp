@@ -26,7 +26,7 @@ void UInteractorComponent::PrimaryInteract()
 
 	FVector Begin = Owner->GetActorLocation();
 
-	FVector End = Begin + (Owner->GetActorForwardVector() * TraceLength);
+	FVector End = ((Begin + (Owner->GetActorForwardVector() * TraceLength)) - FVector(0, 0, 300));
 
 	bool bHitFound = GetWorld()->SweepMultiByObjectType(HitResults, Begin, End, FQuat::Identity, ObjectQueryParams,
 	                                                    Shape);
