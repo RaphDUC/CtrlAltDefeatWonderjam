@@ -61,6 +61,9 @@ protected:
 
 	UFUNCTION(BlueprintCallable, Category="Attributes")
 	void GetDamaged(float UnmitigatedDamage);
+	
+	UFUNCTION(BlueprintCallable, Category="Attributes")
+    void GetHealed(float HealAmount);
 
 	UFUNCTION(BlueprintCallable, Category="Attributes")
 	void Die();

@@ -84,6 +84,15 @@ void USAttributeSystem::GetDamaged(float UnmitigatedDamage)
 	}
 }
 
+void USAttributeSystem::GetHealed(float HealAmount)
+{
+	Health += HealAmount;
+	if(Health > MaxHealth)
+	{
+		Health = MaxHealth;
+	}
+}
+
 void USAttributeSystem::Die()
 {
 	GetOwner()->Destroy();
