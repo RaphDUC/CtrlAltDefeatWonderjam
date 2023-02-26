@@ -4,9 +4,12 @@
     <projectFile>WonderjamH23.uproject</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efe28806-8138-4b8e-a147-965cf723496f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Public/Loot.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/Loot.h" afterDir="false" />
+    <list default="true" id="d70c1c5b-1a22-48a7-baee-718903671d5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Private/SAttributeSystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Private/SAttributeSystem.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Public/SAttributeSystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/SAttributeSystem.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,17 +19,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2ME6lX7xfFrvlwr3Du2o8FAUPnw" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2MFeJ8m0qDIh1r7NAU0lNAsyqas" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -80,13 +79,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="efe28806-8138-4b8e-a147-965cf723496f" name="Changes" comment="" />
-      <created>1677320547735</created>
+      <changelist id="d70c1c5b-1a22-48a7-baee-718903671d5b" name="Changes" comment="" />
+      <created>1677367685800</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677320547735</updated>
-      <workItem from="1677320576976" duration="1261000" />
-      <workItem from="1677324308471" duration="10945000" />
+      <updated>1677367685800</updated>
+      <workItem from="1677367722460" duration="1641000" />
+      <workItem from="1677371997514" duration="91000" />
     </task>
     <servers />
   </component>
@@ -107,7 +106,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
