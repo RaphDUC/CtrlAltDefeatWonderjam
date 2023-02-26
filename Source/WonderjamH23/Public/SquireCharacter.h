@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Throwable.h"
 #include "GameFramework/Character.h"
 #include "SquireCharacter.generated.h"
 
@@ -25,4 +26,15 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category="Throwable")
+	UObject* PotionToThrow;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Throwable")
+	int NumPotionLeft;
+
+	UFUNCTION(BlueprintCallable, Category="Throwable")
+	int GetNumPotionLeft() const;
+	UFUNCTION(BlueprintCallable, Category="Throwable")
+	void SetNumPotionLeft(int newValue);
 };
