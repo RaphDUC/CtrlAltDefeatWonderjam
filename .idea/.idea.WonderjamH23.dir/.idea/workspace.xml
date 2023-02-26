@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab7deba-cad9-42cc-9a07-f9522971a01d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AI/Knight/AIC_KnightAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Knight/AIC_KnightAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_EnemyAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_EnemyAI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_KnightAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_KnightAI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_Potion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Potion.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/LVL_Quest1Plain.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/LVL_Quest1Plain.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/LVL_Village.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/LVL_Village.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/WBP_Inventory.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_Inventory.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/WBP_MerchantShopInterface.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_MerchantShopInterface.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Public/Throwable.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/Throwable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Gym/GYM_AI.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Gym/GYM_AI.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +21,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="WonderjamH23" type="Uproject" factoryName="rider.uproject">
       <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/WonderjamH23.uproject" />
