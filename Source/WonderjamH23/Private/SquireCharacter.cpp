@@ -15,6 +15,7 @@ ASquireCharacter::ASquireCharacter()
 void ASquireCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+	
 }
 
 // Called every frame
@@ -27,15 +28,5 @@ void ASquireCharacter::Tick(float DeltaTime)
 void ASquireCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
-}
-
-int ASquireCharacter::GetNumPotionLeft() const
-{
-	return NumPotionLeft;
-}
-
-void ASquireCharacter::SetNumPotionLeft(int newValue)
-{
-	NumPotionLeft = newValue;
 }
 
