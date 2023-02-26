@@ -19,9 +19,15 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
+<<<<<<< HEAD
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
+=======
 /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+>>>>>>> dev
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -33,11 +39,19 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
+<<<<<<< HEAD
+"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
+"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Default.rc2.res"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\SlateCore\UnrealEditor-SlateCore.lib"
+"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink.lib"
+=======
 "D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
 "D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\SlateCore\UnrealEditor-SlateCore.lib"
 "D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink.lib"
+>>>>>>> dev
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\AssetRegistry\UnrealEditor-AssetRegistry.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\MessagingCommon\UnrealEditor-MessagingCommon.lib"
@@ -45,7 +59,11 @@
 "..\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEdMessages\UnrealEditor-UnrealEdMessages.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
+<<<<<<< HEAD
+"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\UnrealEditor-RD.lib"
+=======
 "D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\UnrealEditor-RD.lib"
+>>>>>>> dev
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -70,7 +88,13 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
+/OUT:"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderBlueprint.dll"
+/IMPLIB:"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\UnrealEditor-RiderBlueprint.suppressed.lib"
+/PDB:"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderBlueprint.pdb"
+=======
 /OUT:"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderBlueprint.dll"
 /IMPLIB:"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\UnrealEditor-RiderBlueprint.suppressed.lib"
 /PDB:"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderBlueprint.pdb"
+>>>>>>> dev
 /ignore:4078
