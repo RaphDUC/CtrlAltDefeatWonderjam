@@ -3,6 +3,8 @@
 
 #include "SAttributeSystem.h"
 
+#include "AICharacter.h"
+
 
 // Sets default values for this component's properties
 USAttributeSystem::USAttributeSystem()
@@ -95,6 +97,10 @@ void USAttributeSystem::GetHealed(float HealAmount)
 
 void USAttributeSystem::Die()
 {
+	if(auto actor = Cast<AAICharacter>(GetOwner()))
+	{
+		actor->OnDeath();
+	}
 	GetOwner()->Destroy();
 }
 
