@@ -1,11 +1,11 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "d:\\projets ecole\\gamejam\\wonderjamhiver2023\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "Source": "d:\\projetue\\wonderjam\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\projets ecole\\gamejam\\wonderjamhiver2023\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
-            "d:\\projets ecole\\gamejam\\wonderjamhiver2023\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+            "d:\\projetue\\wonderjam\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
+            "d:\\projetue\\wonderjam\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
