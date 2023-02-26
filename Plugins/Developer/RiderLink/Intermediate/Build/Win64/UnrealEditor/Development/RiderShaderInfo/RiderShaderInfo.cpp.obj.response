@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp
+=======
+D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp
+>>>>>>> dev
 /I .
 /I Runtime
 /I Runtime\TraceLog\Public
@@ -7,6 +11,7 @@ C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source
 /I Runtime\Json\Public
 /I Runtime\RenderCore\Public
 /I Runtime\RHI\Public
+<<<<<<< HEAD
 /I C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
@@ -18,6 +23,18 @@ C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source
 /FI"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
 /Fo"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
 /sourceDependencies C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.dep.json
+=======
+/I D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Source
+/I ThirdParty\mimalloc\include
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
+/Fo"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
+/sourceDependencies D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.dep.json
+>>>>>>> dev
 /Zc:inline
 /nologo
 /Oi

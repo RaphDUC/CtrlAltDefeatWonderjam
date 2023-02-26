@@ -6,6 +6,12 @@
 /NAME:"UnrealEditor-RiderShaderInfo.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
 "C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Default.rc2.res"
 /OUT:"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\UnrealEditor-RiderShaderInfo.lib"
+=======
+"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
+"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Default.rc2.res"
+/OUT:"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\UnrealEditor-RiderShaderInfo.lib"
+>>>>>>> dev

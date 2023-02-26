@@ -1,10 +1,17 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
+<<<<<<< HEAD
         "Source": "c:\\users\\briel\\desktop\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\users\\briel\\desktop\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
+=======
+        "Source": "d:\\projetue\\wonderjam\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\projetue\\wonderjam\\ctrlaltdefeatwonderjam\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
+>>>>>>> dev
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

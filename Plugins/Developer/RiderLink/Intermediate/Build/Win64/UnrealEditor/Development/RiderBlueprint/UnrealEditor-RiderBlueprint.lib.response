@@ -6,6 +6,12 @@
 /NAME:"UnrealEditor-RiderBlueprint.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
 "C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Default.rc2.res"
 /OUT:"C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\UnrealEditor-RiderBlueprint.lib"
+=======
+"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
+"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Default.rc2.res"
+/OUT:"D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\UnrealEditor-RiderBlueprint.lib"
+>>>>>>> dev

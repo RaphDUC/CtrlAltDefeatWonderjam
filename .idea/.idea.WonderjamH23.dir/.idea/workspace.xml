@@ -4,17 +4,44 @@
     <projectFile>WonderjamH23.uproject</projectFile>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="efe28806-8138-4b8e-a147-965cf723496f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Content/Maps/LVL_DarkForest.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/LVL_VillageAssets.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/LVL_VillageAssets.umap" afterDir="false" />
+=======
+    <list default="true" id="1d2150a7-36ed-4d98-8c5d-478cd46294fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Potion.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_TrajectoryLine.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Throw.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Private/Throwable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/Throwable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WonderjamH23.dir/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Gym/GYM_AI.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Gym/GYM_AI.umap" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_SquireCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_SquireCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Input/IMC_Default.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platforms/HoloLens/Config/HoloLensEngine.ini" beforeDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> dev
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLink.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLink.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLogging.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLogging.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderShaderInfo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderShaderInfo.pdb" afterDir="false" />
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> dev
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/ActiveSocket.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/ActiveSocket.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/ActiveSocket.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/ActiveSocket.cpp.obj.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/ActiveSocket.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/ActiveSocket.cpp.obj.response.old" afterDir="false" />
@@ -250,6 +277,31 @@
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.lib.response.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.suppressed.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.suppressed.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Private/SAttributeSystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Private/SAttributeSystem.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Public/AICharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/AICharacter.h" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderBlueprint/UnrealEditor-RiderBlueprint.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderBlueprint/UnrealEditor-RiderBlueprint.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLogging/UnrealEditor-RiderLogging.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLogging/UnrealEditor-RiderLogging.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+>>>>>>> Stashed changes
+=======
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderBlueprint/UnrealEditor-RiderBlueprint.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderBlueprint/UnrealEditor-RiderBlueprint.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLogging/UnrealEditor-RiderLogging.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLogging/UnrealEditor-RiderLogging.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Private/SquireCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Private/SquireCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/WonderjamH23/Public/SquireCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WonderjamH23/Public/SquireCharacter.h" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> dev
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +311,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2ME6lX7xfFrvlwr3Du2o8FAUPnw" />
+<<<<<<< Updated upstream
+  <component name="ProjectId" id="2MFeJ8m0qDIh1r7NAU0lNAsyqas" />
+=======
+  <component name="ProjectId" id="2MFpA3JBvoyyIXAvpBrFeXQDJPL" />
+>>>>>>> Stashed changes
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -269,12 +325,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "ASKED_ADD_EXTERNAL_FILES": "true",
+=======
+<<<<<<< Updated upstream
+=======
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+>>>>>>> Stashed changes
+>>>>>>> dev
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+<<<<<<< HEAD
   },
   "keyToStringList": {
     "rider.external.source.directories": [
@@ -282,6 +346,18 @@
       "C:\\Users\\briel\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
       "C:\\Users\\briel\\AppData\\Local\\Symbols\\src"
     ]
+=======
+<<<<<<< Updated upstream
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\louis\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\louis\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\louis\\AppData\\Local\\Symbols\\src"
+    ]
+=======
+>>>>>>> Stashed changes
+>>>>>>> dev
   }
 }]]></component>
   <component name="RunManager">
@@ -290,9 +366,15 @@
       <configuration_2>
         <option name="CONFIGURATION" value="DebugGame Editor" />
         <option name="PLATFORM" value="Win64" />
+<<<<<<< HEAD
         <option name="EXECUTABLE_PATH" value="C:\Program Files\Epic Games\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Win64-DebugGame.exe" />
         <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.1" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\WonderjamH23.uproject&quot;" />
+=======
+        <option name="EXECUTABLE_PATH" value="D:\Unreal 5\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Win64-DebugGame.exe" />
+        <option name="WORKING_DIRECTORY" value="D:\Unreal 5\UE_5.1" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\WonderjamH23.uproject&quot;" />
+>>>>>>> dev
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -300,8 +382,13 @@
       <configuration_3>
         <option name="CONFIGURATION" value="DebugGame" />
         <option name="PLATFORM" value="Win64" />
+<<<<<<< HEAD
         <option name="EXECUTABLE_PATH" value="C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Binaries\Win64\WonderjamH23-Win64-DebugGame.exe" />
         <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.1" />
+=======
+        <option name="EXECUTABLE_PATH" value="" />
+        <option name="WORKING_DIRECTORY" value="" />
+>>>>>>> dev
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
@@ -310,9 +397,15 @@
       <configuration_4>
         <option name="CONFIGURATION" value="Development Editor" />
         <option name="PLATFORM" value="Win64" />
+<<<<<<< HEAD
         <option name="EXECUTABLE_PATH" value="C:\Program Files\Epic Games\UE_5.1\Engine\Binaries\Win64\UnrealEditor.exe" />
         <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.1" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\WonderjamH23.uproject&quot;" />
+=======
+        <option name="EXECUTABLE_PATH" value="D:\Unreal 5\UE_5.1\Engine\Binaries\Win64\UnrealEditor.exe" />
+        <option name="WORKING_DIRECTORY" value="D:\Unreal 5\UE_5.1" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\WonderjamH23.uproject&quot;" />
+>>>>>>> dev
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -320,8 +413,13 @@
       <configuration_5>
         <option name="CONFIGURATION" value="Development" />
         <option name="PLATFORM" value="Win64" />
+<<<<<<< HEAD
         <option name="EXECUTABLE_PATH" value="C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Binaries\Win64\WonderjamH23.exe" />
         <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.1" />
+=======
+        <option name="EXECUTABLE_PATH" value="" />
+        <option name="WORKING_DIRECTORY" value="" />
+>>>>>>> dev
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
@@ -330,13 +428,48 @@
       <configuration_6>
         <option name="CONFIGURATION" value="Shipping" />
         <option name="PLATFORM" value="Win64" />
+<<<<<<< HEAD
         <option name="EXECUTABLE_PATH" value="C:\Users\briel\Desktop\CtrlAltDefeatWonderjam\Binaries\Win64\WonderjamH23-Win64-Shipping.exe" />
         <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.1" />
+=======
+        <option name="EXECUTABLE_PATH" value="" />
+        <option name="WORKING_DIRECTORY" value="" />
+>>>>>>> dev
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
       </configuration_6>
+      <configuration_7>
+        <option name="CONFIGURATION" value="DebugGame Program" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Binaries\Win64\-Win64-DebugGame.exe" />
+        <option name="WORKING_DIRECTORY" value="D:\Unreal 5\UE_5.1" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_7>
+      <configuration_8>
+        <option name="CONFIGURATION" value="Development Program" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Binaries\Win64\.exe" />
+        <option name="WORKING_DIRECTORY" value="D:\Unreal 5\UE_5.1" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_8>
+      <configuration_9>
+        <option name="CONFIGURATION" value="Shipping Program" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="D:\ProjetUE\WonderJam\CtrlAltDefeatWonderjam\Binaries\Win64\-Win64-Shipping.exe" />
+        <option name="WORKING_DIRECTORY" value="D:\Unreal 5\UE_5.1" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_9>
       <method v="2">
         <option name="Build" />
       </method>
@@ -345,14 +478,26 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="efe28806-8138-4b8e-a147-965cf723496f" name="Changes" comment="" />
-      <created>1677320547735</created>
+      <changelist id="1d2150a7-36ed-4d98-8c5d-478cd46294fc" name="Changes" comment="" />
+      <created>1677373040002</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1677320547735</updated>
       <workItem from="1677320576976" duration="1261000" />
       <workItem from="1677324308471" duration="10945000" />
       <workItem from="1677363871587" duration="552000" />
+=======
+<<<<<<< Updated upstream
+      <updated>1677367685800</updated>
+      <workItem from="1677367722460" duration="1641000" />
+      <workItem from="1677371997514" duration="91000" />
+      <workItem from="1677384272561" duration="2444000" />
+=======
+      <updated>1677373040002</updated>
+      <workItem from="1677373064709" duration="9442000" />
+>>>>>>> Stashed changes
+>>>>>>> dev
     </task>
     <servers />
   </component>

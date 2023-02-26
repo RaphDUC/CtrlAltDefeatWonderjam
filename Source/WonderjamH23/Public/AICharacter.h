@@ -18,6 +18,9 @@ public:
 	// Sets default values for this character's properties
 	AAICharacter();
 
+	UFUNCTION(BlueprintImplementableEvent, Category="Attributes")
+	void OnDeath();
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
