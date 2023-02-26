@@ -15,6 +15,9 @@ public:
 	// Sets default values for this actor's properties
 	AThrowable();
 
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category="Throwable")
+	float PotionStrength;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
